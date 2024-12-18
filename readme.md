@@ -14,6 +14,7 @@ This project is a Personality Quiz that allows users to answer questions and rec
 - HTML
 - CSS
 - JavaScript
+- [Particles.js](https://vincentgarreau.com/particles.js/) for particle animation
 
 ## Installation
 
